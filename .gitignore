@@ -1,0 +1,7 @@
+.next
+node_modules
+.env
+watson-dashboard.db
+*.log
+build.out
+tsconfig.tsbuildinfo
